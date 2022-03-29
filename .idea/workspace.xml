@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9a03de0-dc9b-461a-a137-fb0a0b6ad576" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft_install\apache\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:/soft_install/apache/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\soft_install\apache\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mar9fLcrt7rSjJ3Pnuhyc22zC0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apache-shardingsphere-4.1.1-sharding-proxy-bin/lib" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.roy.shardingDemo.algorithm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\a备课资料\shardingsphere\ShardingSphereDemo\src\main\resources" />
+      <recent name="E:\a备课资料\shardingsphere\ShardingSphereDemo\sql" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package -Dmaven.test.skip=true" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ShardingJDBCTest.queryCourseComplex">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShardingJDBCTest.addCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShardingSphereDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.shardingDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy.shardingDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.shardingDemo.ShardingJDBCTest" />
+      <option name="METHOD_NAME" value="addCourse" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShardingJDBCTest.queryCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShardingSphereDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.shardingDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy.shardingDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.shardingDemo.ShardingJDBCTest" />
+      <option name="METHOD_NAME" value="queryCourse" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShardingJDBCTest.queryCourseComplex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShardingSphereDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.shardingDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy.shardingDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.shardingDemo.ShardingJDBCTest" />
+      <option name="METHOD_NAME" value="queryCourseComplex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShardingJDBCTest.queryDictByMS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShardingSphereDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.shardingDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy.shardingDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.shardingDemo.ShardingJDBCTest" />
+      <option name="METHOD_NAME" value="queryDictByMS" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShardingJDBCTest.queryOrderRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShardingSphereDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.shardingDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy.shardingDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.shardingDemo.ShardingJDBCTest" />
+      <option name="METHOD_NAME" value="queryOrderRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShardingJDBCApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ShardingSphereDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.roy.shardingDemo.ShardingJDBCApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShardingJDBCTest.queryCourseComplex" />
+        <item itemvalue="JUnit.ShardingJDBCTest.queryOrderRange" />
+        <item itemvalue="JUnit.ShardingJDBCTest.queryCourse" />
+        <item itemvalue="JUnit.ShardingJDBCTest.addCourse" />
+        <item itemvalue="JUnit.ShardingJDBCTest.queryDictByMS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9a03de0-dc9b-461a-a137-fb0a0b6ad576" name="Default Changelist" comment="" />
+      <created>1609742392929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609742392929</updated>
+      <workItem from="1609742397602" duration="5433000" />
+      <workItem from="1609810386357" duration="15574000" />
+      <workItem from="1609911056996" duration="2350000" />
+      <workItem from="1609931804490" duration="11048000" />
+      <workItem from="1644733888001" duration="6682000" />
+      <workItem from="1645858961013" duration="3382000" />
+      <workItem from="1648476036888" duration="180000" />
+      <workItem from="1648516859189" duration="10736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="189" key="FileChooserDialogImpl" timestamp="1645859752262">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="502" y="189" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1645859752262" />
+    <state width="1398" height="292" key="GridCell.Tab.0.bottom" timestamp="1648522484436">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1648522484436" />
+    <state width="1398" height="292" key="GridCell.Tab.0.center" timestamp="1648522484436">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1648522484436" />
+    <state width="1398" height="292" key="GridCell.Tab.0.left" timestamp="1648522484436">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1648522484436" />
+    <state width="1398" height="292" key="GridCell.Tab.0.right" timestamp="1648522484436">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1648522484436" />
+    <state x="224" y="75" key="SettingsEditor" timestamp="1644733926232">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="224" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1644733926232" />
+    <state x="416" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1648516858922">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="258" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1648516858922" />
+    <state x="409" y="184" width="752" height="548" key="find.popup" timestamp="1648517910094">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="409" y="184" width="752" height="548" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1648517910094" />
+  </component>
+</project>
