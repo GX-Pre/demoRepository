@@ -54,7 +54,7 @@ public class ShardingJDBCTest {
         List<Course> courses = courseMapper.selectList(wrapper);
         courses.forEach(course -> System.out.println(course));
     }
-    //使用standard分片策略，范围查询需要实现RangeShardingAlgorithm接口
+    //inline不支持范围查询，使用standard分片策略，范围查询需要实现RangeShardingAlgorithm接口
     @Test
     public void queryOrderRange(){
         //select * from course
@@ -64,6 +64,7 @@ public class ShardingJDBCTest {
         courses.forEach(course -> System.out.println(course));
     }
 
+    //standard分片策略,会查询所有分片，使用complex策略配置多个分片键，就可以优化查询的次数
     @Test
     public void queryCourseComplex(){
         QueryWrapper<Course> wrapper = new QueryWrapper<>();
@@ -73,7 +74,7 @@ public class ShardingJDBCTest {
         List<Course> courses = courseMapper.selectList(wrapper);
         courses.forEach(course -> System.out.println(course));
     }
-
+    //强制路由策略，指定查询course_2表
     @Test
     public void queryCourseByHint(){
         HintManager hintManager = HintManager.getInstance();
